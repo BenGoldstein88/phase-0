@@ -4,4 +4,36 @@ Time management boils down to scheduling and mindfulness. Embracing a working ba
 # 1.2 The Command Line
 
 
+A shell lets you navigate a computing space with minimal visual cues. Bash is a particular Unix shell. I'm having to re-remember, relearn, and just regular learn a lot of these commands, but the flow is coming back slowly. Commands that move and open directories are somewhat less useful in this world of click-and-drag technology, but many that let you change file contents/metadata directly are useful and efficient.
+
+
+
+
+
+pwd - print working
+
+ls - list
+
+mv - move
+
+cd - change directory
+
+../ -
+
+touch - update date
+
+mkdir - make directory
+
+less - show less
+
+rmdir - remove directory
+
+rm - remove
+
+help - get help
+
+
+
+
+
 #1.4 Forking and Cloning
