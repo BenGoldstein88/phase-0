@@ -37,3 +37,14 @@ help - get help
 
 
 #1.4 Forking and Cloning
+
+
+Github makes it easy to create a new repository with the "create new repository" button.
+
+Forking is as easy as clicking the "fork" button in the top right.
+
+Cloning is possible through Github desktop, or through the command line with "git clone URL" where URL is the SSH url available in the "code" section of your github repo.
+
+
+
+Sometimes there are file permission issues (i had some in the command line interface). Google is helpful, as is the DBC literature on version control.
