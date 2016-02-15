@@ -48,3 +48,35 @@ Cloning is possible through Github desktop, or through the command line with "gi
 
 
 Sometimes there are file permission issues (i had some in the command line interface). Google is helpful, as is the DBC literature on version control.
+
+How does tracking and adding changes make developers' lives easier?
+
+Makes it easier to identify and isolate bugs, helps keep multiple collaboraters on a similar timeline, and keeps individual mistakes from sabotaging a workflow.
+
+What is a commit?
+
+Basically a "save point" in the program. It's a moment in time in development with relevant comments attached.
+
+What are the best practices for commit messages?
+
+Early, often, clear comments.
+
+What does the HEAD^ argument mean?
+
+Takes you to a previous commit.
+
+What are the 3 stages of a git change and how do you move a file from one stage to the other?
+
+Change, add, commit. Use the command line.
+
+Write a handy cheatsheet of the commands you need to commit your changes.
+git init, git clone URL
+git status, git add FILE, git commit -m "Message"
+
+What is a pull request and how do you create and merge one?
+
+A pull is a request to merge a branch back into the master. You can create and merge a pull from git.
+
+Why are pull requests preferred when working with teams?
+
+So you don't just jam your code back into the master branch and cause problems for the other devs. Pulls show transparency and accountability.
